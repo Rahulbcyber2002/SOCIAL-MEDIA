@@ -1,2 +1,2 @@
-# SOCIAL-MEDIA
+# social-media
 ABOUT SOCIAL MEDIA
